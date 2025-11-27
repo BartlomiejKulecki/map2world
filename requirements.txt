@@ -1,7 +1,7 @@
-opencv-python
-numpy
+# opencv-python
+# numpy
 trimesh<4
-matplotlib
+# matplotlib
 pycollada
 shapely
 mapbox-earcut
